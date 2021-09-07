@@ -1,11 +1,11 @@
-# About me
+# Greetings!
 
-Greetings! Thanks for stopping by my GitHub-Page. 
+
 
 <img src="kisspng-teaching-with-calvin-and-hobbes-exploring-calvin-a-calvin-and-hobbes-5abbcf44bfcee8.0080076015222577327857.png" width="20%" height="20%">
 
-
-Here, You will find some information about that guy who is trying to code.
+Thanks for stopping by my GitHub-Page. 
+Here, you'll find some information about that guy who is trying to code.
 
 
 ## :mortar_board: To-Do's:
